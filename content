@@ -1,0 +1,122 @@
+🚀 End-to-End DevOps Project Successfully Completed on AWS Kubernetes
+Excited to share that I have successfully built and deployed a complete End-to-End DevOps CI/CD pipeline for a Microservices-based E-Commerce Application on AWS.
+🔥 Technologies Used
+✅ Git & GitHub
+✅ Jenkins
+✅ SonarQube
+✅ Docker
+✅ Docker Hub
+✅ Kubernetes (kOps)
+✅ Helm
+✅ NGINX Ingress Controller
+✅ Prometheus
+✅ Grafana
+✅ AWS EC2
+
+🚀 CI/CD Workflow
+Plain TextGitHub   ↓Jenkins Pipeline   ↓SonarQube Analysis   ↓Quality Gate Validation   ↓Docker Image Build   ↓Docker Hub Push   ↓Helm Upgrade   ↓Kubernetes Deployment   ↓Ingress   ↓Application AccessShow more lines
+
+✅ What I Implemented
+GitHub
+   ↓
+Jenkins Pipeline
+   ↓
+SonarQube Analysis
+   ↓
+Quality Gate Validation
+   ↓
+Docker Image Build
+   ↓
+Docker Hub Push
+   ↓
+Helm Upgrade
+   ↓
+Kubernetes Deployment
+   ↓
+Ingress
+   ↓
+Application Access
+
+🔹 Created and containerized 5 microservices:
+
+Frontend Service
+User Service
+Product Service
+Order Service
+Payment Service
+
+🔹 Built a Jenkins Pipeline that automates:
+
+Source Code Checkout
+SonarQube Analysis
+Quality Gate Validation
+Docker Image Build
+Docker Image Push
+Helm Deployment
+
+🔹 Implemented dynamic image versioning using Jenkins Build Numbers.
+Example:
+frontend:12
+user-service:12
+product-service:12
+order-service:12
+payment-service:12
+  
+Plain Textfrontend:12user-service:12product-service:12order-service:12payment-service:12Show more lines
+🔹 Created reusable Helm Charts for Kubernetes deployments.
+🔹 Deployed the application on a Kubernetes cluster created using kOps on AWS.
+🔹 Configured NGINX Ingress Controller and exposed the application through AWS Load Balancer DNS.
+🔹 Implemented Monitoring using:
+
+Prometheus
+Grafana
+Node Exporter
+Kubernetes Dashboards
+
+
+📊 Validation Performed
+✅ Modified frontend code and pushed changes to GitHub
+✅ Jenkins Pipeline triggered successfully
+✅ New Docker images built and pushed automatically
+✅ Helm Upgrade performed successfully
+✅ Kubernetes Rolling Update completed
+✅ Helm Revision History verified
+✅ Application updated without downtime
+✅ Cluster metrics monitored through Grafana
+
+📚 Key Learnings
+
+CI/CD Pipeline Design
+Kubernetes Administration
+Helm Chart Development
+Containerization with Docker
+Code Quality Analysis using SonarQube
+Kubernetes Ingress & Load Balancing
+Monitoring with Prometheus & Grafana
+Rolling Updates and Kubernetes Deployments
+Real-world DevOps Troubleshooting
+
+
+Proud to see the complete DevOps lifecycle working end-to-end:
+  GitHub
+ ↓
+Jenkins
+ ↓
+SonarQube
+ ↓
+Docker
+ ↓
+Docker Hub
+ ↓
+Helm
+ ↓
+Kubernetes
+ ↓
+Ingress
+ ↓
+Prometheus
+ ↓
+Grafana
+Plain TextGitHub ↓Jenkins ↓SonarQube ↓Docker ↓Docker Hub ↓Helm ↓Kubernetes ↓Ingress ↓Prometheus ↓GrafanaShow more lines
+This project gave me hands-on experience with real-world DevOps practices and cloud-native application deployment.
+#DevOps #AWS #Kubernetes #Jenkins #Docker #Helm #Prometheus #Grafana #SonarQube #Microservices #CloudComputing #CICD #Kops #DevOpsEngineer #LearningByDoing #OpenToWork 🚀
