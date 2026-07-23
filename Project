@@ -1,0 +1,5 @@
+Architected and provisioned a 5-service cloud-native application on AWS using Terraform, automating VPC, EC2, IAM roles, security groups, and networking resources through Infrastructure as Code.
+Built an end-to-end Jenkins CI/CD pipeline automating source checkout, build, SonarQube quality analysis, Trivy image scanning, Docker image creation, and Kubernetes deployment using Helm.
+Containerized and deployed five microservices on Kubernetes (EKS & KOPS) using Helm charts, with NGINX Ingress providing host-based routing through a single entry point.
+Configured Horizontal Pod Autoscaler (HPA), rolling updates, and self-healing to improve application availability, scalability, and zero-downtime deployments.
+Implemented Prometheus and Grafana dashboards to monitor Kubernetes cluster health, pod resource utilization, application availability, and infrastructure performance.
