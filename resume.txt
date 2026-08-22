@@ -1,0 +1,105 @@
+PALLAPU MANEESH KUMAR
+
+DevOps Engineer | AWS | Terraform | Jenkins | Docker | Kubernetes
+
+📞 +91-9390330187
+ 📧 maneeshkumar5161@gmail.com
+ 🔗 LinkedIn | GitHub
+
+PROFESSIONAL SUMMARY
+
+DevOps & Infrastructure Engineer with nearly 3 years of experience supporting and modernizing large-scale financial and insurance platforms. Experienced in CI/CD automation, release engineering, infrastructure automation, Linux administration, GitHub migration, containerization, monitoring, and production support. Hands-on experience with AWS, Terraform, Docker, Kubernetes, Helm, ArgoCD, Prometheus, Grafana, AWS Secrets Manager, and CyberArk. Proven track record of automating deployment processes, improving release reliability, reducing manual effort, and supporting enterprise modernization initiatives.
+
+TECHNICAL SKILLS
+Cloud
+AWS (EC2, IAM, VPC, S3, Route53, RDS, EKS, Load Balancer, Secrets Manager)
+Microsoft Azure
+Infrastructure as Code
+Terraform
+Ansible
+CI/CD & GitOps
+Jenkins
+ArgoCD
+Git
+GitHub
+Containers & Orchestration
+Docker
+Docker Swarm
+Kubernetes
+Amazon EKS
+Helm
+Kops
+NGINX Ingress Controller
+Monitoring & Observability
+Prometheus
+Grafana
+New Relic
+CloudWatch
+Security & DevSecOps
+AWS Secrets Manager
+CyberArk
+SonarQube
+Trivy
+Artifact Management
+JFrog Artifactory
+Nexus Repository Manager
+Operating Systems
+Linux
+Windows
+AIX
+Scripting
+Shell Scripting
+Python
+Databases
+DB2
+SQL
+MySQL
+Enterprise Technologies
+WebSphere Application Server (WAS)
+COBOL
+CICS
+CTG
+PROFESSIONAL EXPERIENCE
+Cognizant Technology Solutions
+Associate – DevOps Engineer
+
+Oct 2023 – Present | Bengaluru, India
+
+Contributed to modernization of a large-scale financial and insurance platform supporting policy generation and servicing across 20+ enterprise environments.
+Designed, developed, and maintained 20+ Jenkins CI/CD pipelines automating application compilation, deployment, release validation, rollback support, and environment-specific workflows.
+Integrated GitHub, SonarQube, Nexus Repository Manager, and enterprise deployment processes into CI/CD pipelines to improve code quality, deployment reliability, and artifact traceability.
+Automated deployment and operational activities using Shell scripting, significantly reducing manual effort and improving deployment consistency across environments.
+Led migration of more than 50,000 production application modules from a legacy version-control platform to GitHub, establishing repository governance, branching strategies, onboarding standards, and source-control best practices.
+Developed Shell-based automation solutions that reduced DB2 migration activities from approximately 3 hours to less than 5 minutes, improving release efficiency and reducing deployment risk.
+Implemented monitoring and operational health checks using New Relic and automated scripting solutions to improve system visibility and reliability.
+Supported enterprise production release cycles by performing deployment validation, troubleshooting, log analysis, rollback support, and production readiness reviews.
+Utilized Docker-based build environments within Jenkins pipelines for application compilation, dependency isolation, and artifact generation, ensuring consistent and reproducible builds.
+Built reusable Terraform modules and infrastructure configurations to automate provisioning of AWS resources, supporting Infrastructure-as-Code adoption and modernization initiatives.
+Managed application credentials and sensitive configuration data using AWS Secrets Manager and CyberArk.
+Containerized WebSphere Application Server workloads through Docker image creation and supported deployment validation activities in pre-production Docker Swarm environments.
+Participated in migration initiatives from IBM AIX environments to Linux-based infrastructure as part of enterprise modernization programs.
+Contributed to migration from a legacy 2-tier architecture to a highly available 3-tier architecture by supporting environment provisioning, deployment processes, and infrastructure modernization activities.
+PROJECTS
+Cloud-Native Application Platform & GitOps Implementation
+
+AWS | Terraform | Jenkins | ArgoCD | Docker | Kubernetes | Helm | Prometheus | Grafana
+
+Architected and provisioned AWS infrastructure using Terraform, including VPCs, EC2 instances, IAM roles, security groups, networking resources, and supporting cloud infrastructure through Infrastructure as Code principles.
+Developed reusable Terraform modules to improve infrastructure reusability, maintainability, and deployment standardization.
+Configured remote Terraform state management using Amazon S3 and DynamoDB-based state locking to support collaborative infrastructure deployments.
+Integrated AWS Secrets Manager and CyberArk for secure storage and retrieval of application credentials and sensitive configuration data.
+Built Jenkins CI/CD pipelines automating source-code checkout, build validation, SonarQube quality analysis, Trivy image scanning, Docker image creation, and deployment workflows.
+Implemented GitOps-based Continuous Delivery using Jenkins, Helm, and ArgoCD.
+Containerized and deployed microservices on Amazon EKS using Deployments, Services, ConfigMaps, Secrets, Helm Charts, and NGINX Ingress Controller.
+Configured Horizontal Pod Autoscaler (HPA), rolling updates, and Kubernetes self-healing mechanisms to improve application scalability and availability.
+Implemented monitoring and observability using Prometheus and Grafana dashboards for cluster health, infrastructure metrics, application performance, CPU utilization, and memory consumption.
+Troubleshot Kubernetes and AWS issues including CrashLoopBackOff, CreateContainerConfigError, Security Group misconfigurations, Ingress routing issues, ConfigMap and Secret configuration errors, RDS connectivity issues, and inter-service communication failures.
+CERTIFICATIONS
+AWS Certified Cloud Practitioner (CLF-C02)
+DevOps Certification – Udemy
+Cloud Computing Certification – Udemy
+EDUCATION
+
+Bachelor of Technology (Electronics & Communication Engineering)
+ Kalasalingam Academy of Research and Education
+ CGPA: 8.3 / 10
